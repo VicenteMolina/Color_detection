@@ -13,3 +13,7 @@ This will display the image to want to analyze and by double clicking it will sh
 ![imagen](https://user-images.githubusercontent.com/37455780/206533363-2e3efc90-af44-4215-a373-9e185e9f8a09.png)
 
 Click esc button to leave the execution
+
+
+If you face issues when importing cv2, execute:
+pip install opencv-python
