@@ -9,6 +9,7 @@ Example of execution
 color_detection.py -i "path_to_image"
 
 This will display the image to want to analyze and by double clicking it will show the color of the pixel you clicked.
+The process use color.csv file to display the more close color to the pixel you have clicked. Make sure this file is in the same folder as the .py file.
 
 ![imagen](https://user-images.githubusercontent.com/37455780/206533363-2e3efc90-af44-4215-a373-9e185e9f8a09.png)
 
